@@ -9,4 +9,4 @@ INSTRUCTIONS:
 3. 'nutshell_comments_extraction_code.py' and 'sucharita_comments_extraction_code.py' are the two python codes that were used to extract a random subset of the comments of the two videos 
 4. 'Nutshell_Model.ipynb' and 'Sucharita_Model.ipynb' are the two model codes customized according to the two datasets used, that give the final analysis to the data.
 
-For more elaborate description, refer to the research paper. The whole project can be understood easily by reading that, as it is written in plain english.
+For more elaborate description, refer to the research paper. The whole project can be understood easily by reading that, as it is written in plain english. Link to the publication: https://zenodo.org/records/7964527
